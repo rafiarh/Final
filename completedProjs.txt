@@ -1,0 +1,15 @@
+In the Projects above we:
+
+1. created a basic Apache web server
+2. Created an EC2 instance for windows Remote Desktop  and set up IIS and tested the IP on local machine
+3. Created Application Load Balancer to run between two IPs on EC2 instance
+
+4. Now creating a Git Repo and running it through the local machine
+
+Next: 
+
+5. Do some basic python coding on PyCharm 
+
+Git Repository: 
+
+rafiarh / Final 
